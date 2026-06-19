@@ -19,6 +19,8 @@ cmake-build-*
 develop-eggs/
 dist/
 downloads/
+outputs/
+notebooks/
 eggs/
 .eggs/
 lib/
